@@ -1,0 +1,16 @@
+h1 {
+  font-size: 64px;
+  color: darkslateblue;
+}
+
+p {
+  font-size: 20px;
+}
+
+body {
+  background-image: url(Rock.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
